@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.home{
+    text-decoration: none;
+}
+.first{
+    background-color: #14bdee;
+    color: white;
+}
+.second{
+    text-decoration:none;
+    color:rgb(24, 24, 72);
+    font-weight:500;
+}
+.third{
+    background-color: #f2f4f5;
+}
+.bg{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+    width: 100%;
+}
+footer{
+    background-color: #1e2434;
+    height: 500px;
+    color: white;
+}
+.tc{
+    color: white;
+}
+.it{
+    color: #14bdee;
+}
+.round{
+    border: none;
+    border-radius: 50%;
+    background-color: #4b505d;
+}
+.grey{
+    color: #81848e;
+}
+.blue{
+    color: blue;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    border-radius: 7px;
+    background-color: white;
+}
+.bghome{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+}
+.imgradius{
+    border-radius: 10px;
+}

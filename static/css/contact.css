@@ -1,0 +1,46 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.home{
+    text-decoration: none;
+}
+.first{
+    background-color: #14bdee;
+    color: white;
+}
+.second{
+    text-decoration:none;
+    color:rgb(24, 24, 72);
+    font-weight:500;
+}
+.third{
+    background-color: #f2f4f5;
+}
+footer{
+    background-color: #1e2434;
+    height: 500px;
+    color: white;
+}
+.tc{
+    color: white;
+}
+.it{
+    color: #14bdee;
+}
+.round{
+    border: none;
+    border-radius: 50%;
+    background-color: #4b505d;
+}
+.grey{
+    color: #81848e;
+}
+.blue{
+    color: blue;
+}
+input{
+    width: 82%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

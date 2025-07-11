@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.home{
+    text-decoration: none;
+}
+.first{
+    background-color: #14bdee;
+    color: white;
+}
+.second{
+    text-decoration:none;
+    color:rgb(24, 24, 72);
+    font-weight:500;
+}
+.box{
+    background-color: white;
+}
+.bg{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+    width: 100%;
+}
+.boxes{
+    background-color: white;
+    border-radius: 7px;
+    padding: 0%;
+    overflow: hidden;
+}
+.info{
+    padding-left: 20px;
+}
+/* .news{
+    padding-right: calc(var(--bs-gutter-x)* .5);
+    padding-left: calc(var(--bs-gutter-x)* .5);
+} */
+footer{
+    background-color: #1e2434;
+    height: 500px;
+    color: white;
+}
+.tc{
+    color: white;
+}
+.it{
+    color: #14bdee;
+}
+.round{
+    border: none;
+    border-radius: 50%;
+    background-color: #4b505d;
+}
+.grey{
+    color: #81848e;
+}
+.blue{
+    color: blue;
+}
